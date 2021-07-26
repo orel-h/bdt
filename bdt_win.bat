@@ -1,0 +1,1 @@
+echo "123 from BDT" >> /tmp/bdt_win.txt
